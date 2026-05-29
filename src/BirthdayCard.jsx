@@ -32,11 +32,11 @@ const flowers = [
 const books = [
   { title: "Stoner", author: "John Williams", spine: "#8B5E3C", text: "#F5DEB3", tag: "Novel" },
   { title: "Heaven's Official Blessing", author: "MXTX", spine: "#6B3D8A", text: "#E8D5FF", tag: "Manwha" },
-  { title: "The Great Gatsby", author: "F. Scott Fitzgerald", spine: "#2C5F2E", text: "#C8F0C8", tag: "Classic" },
-  { title: "Jane Eyre", author: "Charlotte Brontë", spine: "#8B2252", text: "#FFD0E8", tag: "Classic" },
-  { title: "Pride & Prejudice", author: "Jane Austen", spine: "#3D5A80", text: "#B8D4F0", tag: "Classic" },
-  { title: "Middlemarch", author: "George Eliot", spine: "#7A5230", text: "#F0DFC0", tag: "Classic" },
-  { title: "Anne of Green Gables", author: "L.M. Montgomery", spine: "#4A7A4A", text: "#D0F0D0", tag: "Classic" },
+  { title: "Project Hail Mary", author: "Andy Weir", spine: "#2C5F2E", text: "#C8F0C8", tag: "Classic" },
+  { title: "Anna Karenina", author: "Leo Tolstoy", spine: "#8B2252", text: "#FFD0E8", tag: "Classic" },
+  { title: "As Long as the Lemon Trees Grow", author: "Zoulfa Katouh", spine: "#3D5A80", text: "#B8D4F0", tag: "Classic" },
+  { title: "Yellowface", author: "R.F. Kuang", spine: "#7A5230", text: "#F0DFC0", tag: "Classic" },
+  { title: "The Queen of Nothing", author: "Holly Black", spine: "#4A7A4A", text: "#D0F0D0", tag: "Classic" },
 ];
 
 const tsAlbums = [
